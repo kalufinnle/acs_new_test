@@ -1,2 +1,2 @@
 # acs_new_member_test
-Play Around !
+Play Around ! Test your ideas ! Break things :)
